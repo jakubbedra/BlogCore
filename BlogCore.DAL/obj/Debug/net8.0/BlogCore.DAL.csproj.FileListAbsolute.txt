@@ -10,3 +10,4 @@ C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL\obj\Debug\net8.0\BlogCore.DAL.dll
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL\obj\Debug\net8.0\refint\BlogCore.DAL.dll
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL\obj\Debug\net8.0\BlogCore.DAL.pdb
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL\obj\Debug\net8.0\ref\BlogCore.DAL.dll
+C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL\obj\Debug\net8.0\BlogCore.DAL.sourcelink.json

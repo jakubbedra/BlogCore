@@ -163,3 +163,4 @@ C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL.Tests\obj\Debug\net8.0\refint\BlogC
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL.Tests\obj\Debug\net8.0\BlogCore.DAL.Tests.pdb
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL.Tests\obj\Debug\net8.0\BlogCore.DAL.Tests.genruntimeconfig.cache
 C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL.Tests\obj\Debug\net8.0\ref\BlogCore.DAL.Tests.dll
+C:\Users\jakub\Desktop\BlogCore\BlogCore.DAL.Tests\obj\Debug\net8.0\BlogCore.DAL.Tests.sourcelink.json

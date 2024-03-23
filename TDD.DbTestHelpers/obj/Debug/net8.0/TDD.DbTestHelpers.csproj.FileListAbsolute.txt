@@ -13,3 +13,4 @@ C:\Users\jakub\Desktop\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\ref\TDD.DbTes
 C:\Users\jakub\Desktop\BlogCore\TDD.DbTestHelpers\bin\Debug\net8.0\BlogCore.DAL.dll
 C:\Users\jakub\Desktop\BlogCore\TDD.DbTestHelpers\bin\Debug\net8.0\BlogCore.DAL.pdb
 C:\Users\jakub\Desktop\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTe.8888C3A3.Up2Date
+C:\Users\jakub\Desktop\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.sourcelink.json
